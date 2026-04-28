@@ -15,6 +15,8 @@ const About = () => {
   ];
 
   const team = [
+
+    
     {
       name: "Dr. Sarah Chen",
       role: "Founder & CEO",
